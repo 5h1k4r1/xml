@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cities>
+	<city name="Новосибирск">
+		<street>76</street>
+		<home>3244</home>
+		<transport>
+			<bus>23</bus>
+			<trolley>12</trolley>
+		</transport>
+	</city>
+	<city name="Барнаул">
+		<street>120</street>
+		<home>54</home>
+		<transport>
+			<bus>10</bus>
+			<trolley>1</trolley>
+		</transport>
+	</city>
+	<city name="Москва">
+		<street>1276</street>
+		<home>1463244</home>
+		<transport>
+			<bus>3223</bus>
+			<trolley>7412</trolley>
+		</transport>
+	</city>
+</cities>

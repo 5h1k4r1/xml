@@ -1,0 +1,12 @@
+{
+    "name": "2gis/test",
+    "type": "project",
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "App\\": "",
+            "App\\entities\\": "entities"
+        }
+    }
+}
